@@ -34,7 +34,7 @@ dosen_b = "-";
 <!DOCTYPE html>
 <html>
 <head>
-<title>SINTA POLKAM - Lihat Detail <%= judul %></title>
+<title>novita POLKAM - Lihat Detail <%= judul %></title>
 <meta name='author' content='andri'/>
 <meta name='description' content='sistem informasi'/>
 <link href="Assets/bootstrap.css" rel="stylesheet">

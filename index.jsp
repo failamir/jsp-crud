@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Welcome To SINTA POLKAM</title>
+<title>Welcome To novita POLKAM</title>
 <meta name='author' content='andri'/>
 <meta name='description' content='sistem informasi'/>
 <link href="Assets/bootstrap.css" rel="stylesheet">

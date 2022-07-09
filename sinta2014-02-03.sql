@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 5.1.73, for debian-linux-gnu (x86_64)
 --
--- Host: localhost    Database: sinta
+-- Host: localhost    Database: novita
 -- ------------------------------------------------------
 -- Server version	5.1.73-0ubuntu0.10.04.1
 
